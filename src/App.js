@@ -9,8 +9,8 @@ import ManageLead from "./components/ManageLead";
 
 import SignUp from "./components/SignUp";
 import Home from "./homePage/Home";
-export const url="http://localhost:8000"
-// export const url = "https://lead-gen-be.onrender.com";
+// export const url="http://localhost:8000"
+export const url = "https://auth-be-p6px.onrender.com"
 function App() {
   return (
     <>
